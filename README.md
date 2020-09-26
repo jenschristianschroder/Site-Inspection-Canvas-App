@@ -11,4 +11,4 @@ Collect the following types of documentation:
 * Pen / Ink
 * Mixed Reality Measurement
 
-## Download the solution here: [CPALSiteInspection_1_0_0_0.zip](http://github.com)
+## Download the solution here: [CPALSiteInspection_1_0_0_0.zip](https://github.com/jenschristianschroder/Site-Inspection-Canvas-App/files/5286965/CPALSiteInspection_1_0_0_0.zip)
